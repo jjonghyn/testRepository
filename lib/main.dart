@@ -1,7 +1,10 @@
 import 'package:flutter/material.dart';
 
 //conflict test!!!
+
 //머지테스트 충돌테스트
+
+//여기는 테스트브랜치 머지충돌테스트중!!
 
 void main() {
   runApp(const MyApp());
@@ -25,7 +28,7 @@ class MyApp extends StatelessWidget {
         // or simply save your changes to "hot reload" in a Flutter IDE).
         // Notice that the counter didn't reset back to zero; the application
         // is not restarted.
-        primarySwatch: Colors.blue,
+        primarySwatch: Colors.green,
       ),
       home: const MyHomePage(title: 'Flutter Demo Home Page'),
     );
