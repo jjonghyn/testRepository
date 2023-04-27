@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
-//conflict test!!!!!
+//conflict test!!!
+//머지테스트 충돌테스트
 
 void main() {
   runApp(const MyApp());
