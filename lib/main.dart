@@ -1,10 +1,7 @@
 import 'package:flutter/material.dart';
 
 //conflict test!!!
-
 //머지테스트 충돌테스트
-
-//여기는 테스트브랜치 머지충돌테스트중!!
 
 void main() {
   runApp(const MyApp());
