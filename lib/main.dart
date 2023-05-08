@@ -6,8 +6,6 @@ import 'package:flutter/material.dart';
 
 //여기는 테스트브랜치 머지충돌테스트중!!!!!
 
-//0508 테스트하는중16:00
-
 void main() {
   runApp(const MyApp());
 }
