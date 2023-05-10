@@ -1,15 +1,5 @@
 import 'package:flutter/material.dart';
 
-//conflict test!!!
-
-//머지테스트 충돌테스트
-
-//여기는 테스트브랜치 머지충돌테스트중!!!!!
-
-//단일 파일 커밋 테스트
-
-//선택한 두 가지 이상의 파일 커밋 test
-
 void main() {
   runApp(const MyApp());
 }
