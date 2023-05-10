@@ -2,6 +2,9 @@ import 'package:flutter/material.dart';
 
 //주석을 하나만 달았음
 
+//reset 테스트 중!!
+
+//커밋까지만 하고 지워보자
 void main() {
   runApp(const MyApp());
 }
