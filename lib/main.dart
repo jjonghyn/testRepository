@@ -2,9 +2,8 @@ import 'package:flutter/material.dart';
 
 //주석을 하나만 달았음
 
-//5.11일 revert 테스트
-
 // 제3자가 push 한 내용 commit이 된 상태
+
 void main() {
   runApp(const MyApp());
 }
