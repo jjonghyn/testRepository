@@ -2,8 +2,6 @@ import 'package:flutter/material.dart';
 
 //주석을 하나만 달았음
 
-//첫번째 reset 실험
-
 void main() {
   runApp(const MyApp());
 }
